@@ -17,7 +17,7 @@ let db = firebase.database();
 // Get the currently singed in users
 // let user = firebase.auth().currentUser;
 
-let username = "ricozhuthegreat";
+let username = "user";
 
 // Database tester code
 document.getElementById('poststuff').onclick = () => {

@@ -7,7 +7,7 @@ document.onkeyup = function(e) {
 
     // Retrieve the email and password information off the index.html page
     let username = document.querySelector('#username').value;
-    let password = document.querySelector('#password').value;
+    let password = "1234";
 
     e.preventDefault();
     e.stopPropagation();
