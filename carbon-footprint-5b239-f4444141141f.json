@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbon-footprint-5b239",
+  "private_key_id": "f4444141141f315fb9aef578492780dcad049156",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfWFFq9JD/iAF1\n2p6LulyotIB6j6RPa0AcPLq92EpCULQMDGtYLxAIG+/w8GOQws6ngVzHo9EkT8w+\n93YIZcN+xBPaAhJt2O3Wu/3wrDGbX4d8vsv26EBYn5U2NGmjHkHgx6vShg0f2YJf\nM8VT2xfJzET9Fs7DX+Xmy28hBdlssnO6t93GPYd/dQhYZfD8cX3jNd2xGDX6eLhA\nnwvLxuFpU6O04wDvIm/IvMSGbN5r7nmB/ubzijFg/NpDK/YTSiV+O8xnM+dgXeUC\nSRKPO+lBAyTjBOv0faTVTYb977CC89UQ+SgdqQYxNJNcKwnlqWpOoRRgDN2+qI1+\nPU0hwV+ZAgMBAAECggEACSE8GsoqjzeJD79DEeUpWoAebGQozFJPCZh17cLErldM\nNN3hGXa7CgnSUiARgd5kwjYoi8SnjPtyFvTYr1kxl6H+ScAh7rmaZ1fB9q+jS32p\nNTE7dzlhP/4uBEw6MT/QY5bl8DIooS+sA6ZDH71qCIbAHzRqeVQXOssAHPJ3Q9ko\nDsDX7J7VAjaBOD+r6DAe68LeYE1NcMmq24GrQeD6Kclb1pmhxtHn9jNPeJ0FUYSs\nb7kqOXFBiSG7XkwftIaYEj4Ndelw8QoKtngz1f+wndddgR5xWI34kHnfmDP2uqiT\nAwPXR+DUxSkdQ2SlvEX/cRBT3+jj5a9Sgjb306u/gQKBgQD5jAq/pEanPNO1bqfN\nrDpImlaWb8UGtlrn2qpGyVo0risHj7PyHwCKGNF4Ev5tcTUHZDwievNV1xg7UUms\n8VYSqhZENeRq3GJpSkBFE9oOTZwlO0KH+6zEvksbEHTgLlx7a3O2SoPTZYIdI1Mf\nP98wMCdUq3wLeCwoJyUQvLBIiQKBgQDlHtKz7GEsCJPPEQcIqoPuS9rGI9QFf6OI\nnhgNlMwJotZGVoraZ25dUNAYkfaFwnEEYLCFWD6o2xeBaiT8JXXhP+ybmCPtCXqA\n7PtMvvyyMTrp0mIegGHrzQF1klwM80i8x43TUiGZztyP+WbDefRMvznsBYadeOtq\ncvO6kN96kQKBgQCXU6MY/8eQlsRTW50KjgxyBpXHeFPkdCTAQMvNTUEUfSG+3hfj\nFYXAOLidtfbv6xybNN96kVCKl3ssTWj+JQNrIhWKm5u+aZKMAujiet1amxm7Qipg\nR/BHBpaI/PvDDpoqhciPnLRAN2glv0wiwRrZH/pZz/vTALbWSpahharo8QKBgCfR\n6ZC3nlPG0dmE/hH1gKRjrowNIgYqnsNZppiFqchq8o6a79rxau7w4pnClHO+zWGT\nZFpocctq+HTXe8IOyKPzNi38jRHfOdk6VpqJ/uUBRVnp5H+klGAk6wICA9mEVrno\nfK+jcI+IsjCbic6jXWARRAHPHAw2PcPsYoukLhLhAoGAB3PRy83mtaToX77mVX8X\njYb6O0iadKtCTXyP/sLGrCs6j3TFTpu6zla0dIJi8c0eSOAtD8dE1GH9kUF07Lvb\nUnlLw6g+EOCAJty3gZtcCRSpU7QWgxAaL3F7pmVuLa4/cLHMZBH9CBy6SwcRkJce\nPmWXA+X9PCf367Mj/3ry0yU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "carbon-footprint-5b239@appspot.gserviceaccount.com",
+  "client_id": "114851054888631848909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carbon-footprint-5b239%40appspot.gserviceaccount.com"
+}
