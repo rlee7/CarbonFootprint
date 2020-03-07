@@ -1,0 +1,3 @@
+[submodule "CarbonFootprintFrontend"]
+	path = CarbonFootprintFrontend
+	url = https://github.com/GabrielWeinbrenner/CarbonFootprintFrontend.git
