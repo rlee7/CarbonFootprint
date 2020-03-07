@@ -10,7 +10,6 @@ config = {
 }
 
 firebase = pyrebase.initialize_app(config)
-print ("Hello world")
 
 # Get a reference to the auth service
 auth = firebase.auth()
