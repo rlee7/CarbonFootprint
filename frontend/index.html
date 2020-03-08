@@ -29,7 +29,7 @@
 						<header class="major">
 							<h2>To start, what is your name?</h2>
 						</header>
-						<input class="name" type="text">
+						<input id="name" class="name" type="text">
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
@@ -43,16 +43,15 @@
 						<header class="major">
 							<h2>What is your main method of transportation?</h2>
 						</header>
-						<form>
-	  					<input type="radio" id="car" name="car" value="car">
-	  					<label for="car">Private Vehicle</label><br>
-							<input type="radio" id="ride_share" name="ride_share" value="ride_share">
-	  					<label for="ride_share">Ride Share</label><br>
-	  					<input type="radio" id="pub_tran" name="pub_tran" value="pub_tran">
-	  					<label for="pub_tran">Public Transportation</label><br>
-							<input type="radio" id="walk" name="walk" value="walk">
-	  					<label for="walk">Walking</label><br>
-
+						<form id="transport">
+							<input type="radio" id="car" name="car" value="car">
+							<label for="car">Private Vehicle</label><br>
+								<input type="radio" id="ride_share" name="ride_share" value="ride_share">
+							<label for="ride_share">Ride Share</label><br>
+							<input type="radio" id="pub_tran" name="pub_tran" value="pub_tran">
+							<label for="pub_tran">Public Transportation</label><br>
+								<input type="radio" id="walk" name="walk" value="walk">
+							<label for="walk">Walking</label><br>
 						</form>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
@@ -68,10 +67,10 @@
 							<h2>How many times a week do you eat beef?</h2>
 						</header>
 						<select id="dinner1">
-  						<option value="never">Never</option>
-  						<option value="once">1</option>
-  						<option value="two_five">1-5</option>
-  						<option value="five_more">5+</option>
+							<option value="never">Never</option>
+							<option value="once">1</option>
+							<option value="two_five">1-5</option>
+							<option value="five_more">5+</option>
 						</select>
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
@@ -113,7 +112,7 @@
 								<option value="five_more">5+</option>
 							</select>
 						</div>
-						<a href="#" class="goto-next scrolly">Next</a>
+						<a href="#" id="submit" class="goto-next scrolly">Next</a>
 					</div>
 				</section>
 		<!-- Scripts -->
@@ -124,6 +123,8 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/posting.js"></script>
+
 
 	</body>
 </html>
